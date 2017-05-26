@@ -1,3 +1,17 @@
 body {
   background-color: yellow;
 }
+
+h1{
+
+color: red
+
+}
+
+.custom-background{
+
+  background-color: green;
+color: pink;
+height:200px;
+
+}
